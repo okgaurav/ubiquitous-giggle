@@ -1,0 +1,3 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/okgaurav/config-server.git
