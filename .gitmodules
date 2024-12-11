@@ -4,3 +4,15 @@
 [submodule "crypto"]
 	path = crypto
 	url = https://github.com/okgaurav/Crypto.git
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = https://github.com/okgaurav/eurekaserver.git
+[submodule "exchange"]
+	path = exchange
+	url = https://github.com/okgaurav/exchange.git
+[submodule "gateway-server"]
+	path = gateway-server
+	url = https://github.com/okgaurav/gateway.git
+[submodule "DockerEnv"]
+	path = DockerEnv
+	url = https://github.com/okgaurav/CryptoDocker.git
