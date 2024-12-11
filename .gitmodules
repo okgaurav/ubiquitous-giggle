@@ -1,3 +1,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/okgaurav/config-server.git
+[submodule "crypto"]
+	path = crypto
+	url = https://github.com/okgaurav/Crypto.git
